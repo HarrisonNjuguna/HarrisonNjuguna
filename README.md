@@ -4,7 +4,13 @@ I’m a passionate cross-platform mobile app developer with a focus on deliverin
 
 ## 🌐 Technologies & Tools
 
-
+<a href="https://github.com/harrisonnjuguna/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=harrisonnjuguna" />
+</a>
+<a href="https://github.com/harrisonnjuguna/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harrisonnjuguna&layout=compact&langs_count=8&card_width=320" />
+</a>
+ 
 ### Frameworks
 - **React Native**: Building native mobile apps using React.
 - **Flutter**: Crafting beautiful UIs for iOS and Android from a single codebase.
@@ -25,23 +31,3 @@ I’m a passionate cross-platform mobile app developer with a focus on deliverin
 - **npm & Yarn**: Dependency management for JavaScript projects.
 - **Visual Studio Code**: My go-to code editor for all projects.
 - **Fastlane**: Automating deployment for iOS and Android apps.
-
-
-
-## 📈 GitHub Stats
-
-<a href="https://github.com/harrisonnjuguna/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=harrisonnjuguna" />
-</a>
-<a href="https://github.com/harrisonnjuguna/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harrisonnjuguna&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-## 🔧 Getting Started
-
-To get started with my projects, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/olusiekwin/project-name.git
-   cd project-name
